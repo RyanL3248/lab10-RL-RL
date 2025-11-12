@@ -1,10 +1,7 @@
-"""
-calculator.py
-- Defines functions used to create a simple calculator
 
-One function per operation, in order.
-"""
-# First example
+# GitHub Link: https://github.com/RyanL3248/lab10-RL-RL.git
+#Partner 1: Ryan Linton
+#Partner 2: Ryan Linton
 
 import math 
 
