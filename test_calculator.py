@@ -1,4 +1,4 @@
-# GitHub Link: https://github.com/RyanL3248/lab10-RL-RL.git
+#https://github.com/RyanL3248/lab10-RL-RL.git
 #Partner 1: Ryan Linton
 #Partner 2: Ryan Linton
 
